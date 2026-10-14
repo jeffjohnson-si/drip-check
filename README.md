@@ -1,7 +1,5 @@
-# My Projects
+# drip-check
 
-A collection of apps and websites I'm building.
+drip-check-app is a fashion visual try-on app.
 
-## Projects
 
-- **drip-check-app** — drip-check-app is a fashion visual try-on app.
